@@ -1,9 +1,6 @@
 ﻿// finds files that end in "*.prt.2" and deletes them if there's a newer one
 // also renames those, so there's only "*.1" files left over
 
-using System;
-using System.IO;
-
 const string path = "./testfolder";
 
 string[] all_files = Directory.GetFiles(path);
