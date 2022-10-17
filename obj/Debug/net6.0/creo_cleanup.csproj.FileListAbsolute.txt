@@ -1,0 +1,15 @@
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/creo_cleanup
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/creo_cleanup.deps.json
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/creo_cleanup.runtimeconfig.json
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/creo_cleanup.dll
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/ref/creo_cleanup.dll
+/home/simon/Documents/test/creo_cleanup/bin/Debug/net6.0/creo_cleanup.pdb
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.csproj.AssemblyReference.cache
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.AssemblyInfoInputs.cache
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.AssemblyInfo.cs
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.csproj.CoreCompileInputs.cache
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.dll
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/ref/creo_cleanup.dll
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.pdb
+/home/simon/Documents/test/creo_cleanup/obj/Debug/net6.0/creo_cleanup.genruntimeconfig.cache
